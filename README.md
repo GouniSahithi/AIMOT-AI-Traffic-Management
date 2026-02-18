@@ -1,8 +1,10 @@
-**🚦 AIMOT: AI-Powered Intelligent Monitoring and Optimization of Urban Traffic
-📌 SIH 2024 | Problem ID: SIH1607
-📖 Overview**
----
+### **🚦 AIMOT: AI-Powered Intelligent Monitoring and Optimization of Urban Traffic**
 
+
+
+1. ### **📌 SIH 2024 | Problem ID: SIH1607**
+2. ### **Overview**
+2. 
 **AIMOT is an AI-based smart traffic management system designed to monitor real-time traffic flow and dynamically adjust signal timings to reduce congestion and prioritize emergency vehicles.**
 
 
@@ -14,7 +16,7 @@
 * **Pygame for traffic simulation**
 * **Streamlit for interactive dashboard visualization**
 * 
-**### 🚀 Features**
+**### 3.Features**
 
 * **Real-time vehicle detection**
 * **Vehicle type classification (car, bus, bike, ambulance, etc.)**
@@ -23,7 +25,7 @@
 * **Emergency vehicle prioritization**
 * **Live dashboard analytics**
 * 
-**### 🛠 Tech Stack**
+**### 4.Tech Stack**
 
 * **Python**
 * **OpenCV**
@@ -32,7 +34,7 @@
 * **Streamlit**
 * **Pygame**
 * 
-**### 📂 Project Structure**
+**### 5\.📂 Project Structure**
 
 **├── dashboard.py**
 
@@ -52,7 +54,7 @@
 
 
 
-### **⚙️ Installation**
+### **6. Installation**
 
 **git clone https://github.com/GouniSahithi/AIMOT-AI-Traffic-Management.git**
 
@@ -66,7 +68,7 @@
 
 
 
-### **▶️ Run the Project**
+### **7.▶️ Run the Project**
 
 **Run simulation:**
 
@@ -84,7 +86,7 @@
 
 
 
-### **🎯 Problem Addressed**
+### **8. Problem Addressed**
 
 
 
@@ -92,7 +94,7 @@
 
 
 
-### **🌟 Future Enhancements**
+### **9. Future Enhancements**
 
 
 
