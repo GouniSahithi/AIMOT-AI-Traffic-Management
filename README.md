@@ -1,40 +1,96 @@
-### **🚦 AIMOT: AI-Powered Intelligent Monitoring and Optimization of Urban Traffic**
+### **# 🚦 AIMOT**  
 
+### **## AI-Powered Intelligent Monitoring and Optimization of Urban Traffic**  
 
+### 
 
-1. ### **📌 SIH 2024 | Problem ID: SIH1607**
-2. ### **Overview**
-2. 
+### **📌 \*\*Smart India Hackathon (SIH) 2024\*\***  
+
+### **\*\*Problem ID:\*\* SIH1607**  
+
+### 
+
+### **---**
+
+### 
+
+### **## 📖 Overview**  
+
+### 
+
 **AIMOT is an AI-based smart traffic management system designed to monitor real-time traffic flow and dynamically adjust signal timings to reduce congestion and prioritize emergency vehicles.**
 
 
 
 **The system integrates:**
 
-* **YOLOv8 for real-time vehicle detection**
-* **MobileNetV2 for vehicle type classification**
-* **Pygame for traffic simulation**
-* **Streamlit for interactive dashboard visualization**
-* 
-**### 3.Features**
 
-* **Real-time vehicle detection**
-* **Vehicle type classification (car, bus, bike, ambulance, etc.)**
-* **Lane-wise congestion calculation**
-* **Dynamic traffic signal control**
-* **Emergency vehicle prioritization**
-* **Live dashboard analytics**
-* 
-**### 4.Tech Stack**
 
-* **Python**
-* **OpenCV**
-* **YOLOv8 (Ultralytics)**
-* **MobileNetV2**
-* **Streamlit**
-* **Pygame**
-* 
-**### 5\.📂 Project Structure**
+**- 🚘 \*\*YOLOv8\*\* for real-time vehicle detection**  
+
+**- 🚗 \*\*MobileNetV2\*\* for vehicle type classification**  
+
+**- 🎮 \*\*Pygame\*\* for traffic simulation**  
+
+**- 📊 \*\*Streamlit\*\* for interactive dashboard visualization**  
+
+### 
+
+### **---**
+
+### 
+
+### **## 🚀 Features**  
+
+### 
+
+**- Real-time vehicle detection**  
+
+**- Vehicle type classification (car, bus, bike, ambulance, etc.)**  
+
+**- Lane-wise congestion calculation**  
+
+**- Dynamic traffic signal control**  
+
+**- Emergency vehicle prioritization**  
+
+**- Live dashboard analytics**  
+
+### 
+
+### **---**
+
+### 
+
+### **## 🛠 Tech Stack**  
+
+### 
+
+\- Python  
+
+\- OpenCV  
+
+\- YOLOv8 (Ultralytics)  
+
+\- MobileNetV2  
+
+\- Streamlit  
+
+\- Pygame  
+
+### 
+
+### **---**
+
+### 
+
+### **## 📂 Project Structure**  
+
+### 
+
+**AIMOT-AI-Traffic-Management/**
+
+**│**
 
 **├── dashboard.py**
 
@@ -54,7 +110,15 @@
 
 
 
-### **6. Installation**
+**---**
+
+
+
+### **## ⚙️ Installation**  
+
+
+
+**```bash**
 
 **git clone https://github.com/GouniSahithi/AIMOT-AI-Traffic-Management.git**
 
@@ -68,33 +132,29 @@
 
 
 
-### **7.▶️ Run the Project**
+### **## ▶️ Run the Project**
 
-**Run simulation:**
+**Run Simulation:**
 
-
-
-* **python simulator/traffic\_simulator.py**
+**python simulator/traffic\_simulator.py**
 
 
 
-**Run dashboard:**
+**Run Dashboard:**
+
+**python -m streamlit run dashboard.py**
 
 
 
-* **python -m streamlit run dashboard.py**
+### **## 🎯 Problem Addressed**
 
 
 
-### **8. Problem Addressed**
+**Urban congestion caused by static traffic signal systems that do not adapt to real-time traffic conditions.**
 
+### 
 
-
-**Urban congestion due to static traffic signal systems.**
-
-
-
-### **9. Future Enhancements**
+### **## 🌟 Future Enhancements**
 
 
 
@@ -102,3 +162,17 @@
 * **Cloud deployment**
 * **IoT sensor integration**
 * **AI-based congestion prediction**
+* **Smart city infrastructure integration**
+
+
+
+### **## 👩‍💻 Author**
+
+
+
+**Sahithi Gouni**
+
+**B.E. Computer Science Engineering**
+
+**Smart India Hackathon 2024 Participant**
+
