@@ -30,7 +30,33 @@
 
 **- 📊 \*\*Streamlit\*\* for interactive dashboard visualization**  
 
-### 
+
+
+
+
+### **📸 Project Output**
+
+
+
+**🚦 Traffic Simulation**
+
+**!\[Traffic Simulation](screenshots/simulator.png)**
+
+
+
+**📊 Dashboard - Traffic Metrics**
+
+**!\[Dashboard 1](screenshots/dashboard1.png)**
+
+
+
+ **📊 Dashboard - Vehicle Analytics**
+
+**!\[Dashboard 2](screenshots/dashboard2.png)**
+
+
+
+
 
 ###  **🚀 Features**  
 
