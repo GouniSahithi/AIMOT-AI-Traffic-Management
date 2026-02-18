@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.h5
+*.pt
+simulation_data.json
+
+classification_dataset/
+cropped_vehicles/
+input_videos/
+traffic_images/
+yolo_detection/cropped_vehicles/
+
+darkflow/
+yolo_detection/yolov5/
