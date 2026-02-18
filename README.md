@@ -1,6 +1,6 @@
-### **# 🚦 AIMOT**  
+# **🚦 AIMOT**  
 
-### **## AI-Powered Intelligent Monitoring and Optimization of Urban Traffic**  
+#  **AI-Powered Intelligent Monitoring and Optimization of Urban Traffic**  
 
 ### 
 
@@ -10,11 +10,7 @@
 
 ### 
 
-### **---**
-
-### 
-
-### **## 📖 Overview**  
+###  **📖 Overview**  
 
 ### 
 
@@ -36,11 +32,7 @@
 
 ### 
 
-### **---**
-
-### 
-
-### **## 🚀 Features**  
+###  **🚀 Features**  
 
 ### 
 
@@ -58,11 +50,7 @@
 
 ### 
 
-### **---**
-
-### 
-
-### **## 🛠 Tech Stack**  
+### **🛠 Tech Stack**  
 
 ### 
 
@@ -80,11 +68,7 @@
 
 ### 
 
-### **---**
-
-### 
-
-### **## 📂 Project Structure**  
+### **📂 Project Structure**  
 
 ### 
 
@@ -110,15 +94,9 @@
 
 
 
-**---**
+###  **⚙️ Installation**  
 
 
-
-### **## ⚙️ Installation**  
-
-
-
-**```bash**
 
 **git clone https://github.com/GouniSahithi/AIMOT-AI-Traffic-Management.git**
 
@@ -132,7 +110,7 @@
 
 
 
-### **## ▶️ Run the Project**
+### **▶️ Run the Project**
 
 **Run Simulation:**
 
@@ -144,9 +122,9 @@
 
 **python -m streamlit run dashboard.py**
 
+### 
 
-
-### **## 🎯 Problem Addressed**
+###  **🎯 Problem Addressed**
 
 
 
@@ -154,7 +132,7 @@
 
 ### 
 
-### **## 🌟 Future Enhancements**
+### **🌟 Future Enhancements**
 
 
 
@@ -166,7 +144,7 @@
 
 
 
-### **## 👩‍💻 Author**
+### **👩‍💻 Author**
 
 
 
